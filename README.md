@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**Eduardo-Baranowski/Eduardo-Baranowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Eduardo Baranowski. Currently I'm a mobile developer. I also have experience with web and desktop development.
 
-Here are some ideas to get you started:
+Currently I'm working with **React Native** to make Mobile applications for Android and iOS.:iphone:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But, I also used it in projects:
+
+<p>
+&nbsp;  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
+&nbsp;  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
+&nbsp;
+<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
+&nbsp;
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
+&nbsp;
+<img src="https://img.icons8.com/color/452/mongodb.png" height="35px"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/>
+&nbsp;
+<img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
+&nbsp;  
+<img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
+&nbsp;
+<img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
+&nbsp;
+<img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />   
+</p>
+
+:mortar_board: I am graduated in Computer Science.
+
+I have also worked with **C#**, **SQL Server**, **PHP**, **MySQL** and others. I like project architecture, writing clean code and applying good practices.
+
+
+**Follow me on my social media:**
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigo.goncalves.s/)](https://www.instagram.com/eduardobaranowski/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/eduardo-baranowski-091760127/)
+[![Twitch Badge](https://img.shields.io/badge/-Twitch-6633cc?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/rodrigogoncalvess)](https://www.twitch.tv/edu_baranowski)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-6633cc?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/rodrigogsdev)](https://twitter.com/edu_baranowski)
