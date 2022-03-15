@@ -33,7 +33,7 @@ But, I also used it in projects:
 
 :mortar_board: I am graduated in Computer Science.
 
-I have also worked with **C#**, **SQL Server**, **PHP**, **MySQL** and others. I like project architecture, writing clean code and applying good practices.
+I have also worked with **C#**, **SQL Server**, **PHP**, **MySQL** and others. 
 
 
 **Follow me on my social media:**
