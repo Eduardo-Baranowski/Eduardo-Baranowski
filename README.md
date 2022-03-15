@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-**I'm Eduardo Baranowski. Currently I'm a mobile developer. I also have experience with web and desktop development.
+**I'm Eduardo Baranowski**. Currently I'm a mobile developer. I also have experience with web and desktop development.
 
 Currently I'm working with **React Native** to make Mobile applications for Android and iOS.:iphone:
 
