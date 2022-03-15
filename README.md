@@ -28,13 +28,16 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
 &nbsp;
-<img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />   
+<img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />
+&nbsp;
+<img src="https://www.python.org/static/img/python-logo.png" height="35px" />   
 </p>
 
 :mortar_board: I am graduated in Computer Science.
 
 I have also worked with **C#**, **SQL Server**, **PHP**, **MySQL** and others. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Baranowski&layout=compact)](https://github.com/Eduardo-Baranowski/github-readme-stats)
 
 **Follow me on my social media:**
 
