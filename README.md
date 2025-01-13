@@ -16,7 +16,7 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
 &nbsp;
-<img src="https://nestjs.com/logo-small-gradient.76616405.svg" height="35px"/>
+<img src="https://nestjs.com/logo-small-gradient.d792062c.svg" height="35px"/>
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
 &nbsp;
