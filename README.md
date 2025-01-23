@@ -28,7 +28,7 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
 &nbsp;  
-<img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
+<img src="https://www.facebook.com/photo/?fbid=1029732292518702&set=a.598285248996744" height="35px" />
 &nbsp;
 <img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />
 &nbsp;
