@@ -28,7 +28,7 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
 &nbsp;  
-<img src="https://www.facebook.com/photo/?fbid=1029732292518702&set=a.598285248996744" height="35px" />
+<img src="https://cdn.sanity.io/images/599r6htc/regionalized/5354460e50393712c3c2f639ac15265e1371cf23-720x720.png" height="35px" />
 &nbsp;
 <img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />
 &nbsp;
