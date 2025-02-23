@@ -33,6 +33,8 @@ But, I also used it in projects:
 <img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />
 &nbsp;
 <img src="https://www.python.org/static/img/python-logo.png" height="35px" />   
+&nbsp;
+<img src="https://laravel.com/img/logomark.min.svg" height="35px" />   
 </p>
 
 :mortar_board: I am graduated in Computer Science.
