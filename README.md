@@ -1,10 +1,7 @@
 ### Hey there 👋
+I'm **Eduardo Baranowski**, a passionate **Mobile Developer** with experience in **web and desktop development**. Currently, I specialize in **React Native** for building cross-platform mobile applications (Android & iOS) 📱.
 
-**I'm Eduardo Baranowski**. Currently I'm a mobile developer. I also have experience with web and desktop development.
-
-Currently I'm working with **React Native** to make Mobile applications for Android and iOS.:iphone:
-
-But, I also used it in projects:
+Beyond development, I’m also a **TI Instructor/Professor**, sharing my knowledge and empowering others in technology. Whether it’s coding or teaching, I love turning ideas into solutions!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react,nodejs,nestjs,docker,mysql,mongodb,postgres,figma,laravel,py,ubuntu,androidstudio,arch,aws,bootstrap,dotnet,debian,django,express,git,heroku,nginx,php,prisma,redux,ts)](https://skillicons.dev)
 
