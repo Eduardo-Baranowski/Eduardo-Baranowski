@@ -6,29 +6,15 @@ Currently I'm working with **React Native** to make Mobile applications for Andr
 
 But, I also used it in projects:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react,nodejs,nestjs,docker,mysql,mongodb,postgres,figma,laravel,py)](https://skillicons.dev)
 
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
 &nbsp;
-<img src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png" height="35px"/>
-&nbsp;
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
-&nbsp;
-<img src="https://nestjs.com/logo-small-gradient.d792062c.svg" height="35px"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
-&nbsp;
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
-&nbsp;
-<img src="https://img.icons8.com/color/452/mongodb.png" height="35px"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/>
 &nbsp;
 <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
 &nbsp;  
-<img src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png" height="35px" />
-&nbsp;
 <img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />
 &nbsp;
 <img src="https://laravel.com/img/logomark.min.svg" height="35px" /> 
