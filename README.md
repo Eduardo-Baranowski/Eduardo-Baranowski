@@ -1,14 +1,10 @@
-### Hey there 👋
-I'm **Eduardo Baranowski**, a passionate **Mobile Developer** with experience in **web and desktop development**. Currently, I specialize in **React Native** for building cross-platform mobile applications (Android & iOS) 📱.
+### **Hey there** 👋
+I'm **Eduardo Baranowski**, a **Computer Science graduate** 🎓 passionate about mobile, web, and desktop development. Currently, I specialize in **React Native** for cross-platform apps (Android & iOS) 📱.
 
-Beyond development, I’m also a **TI Instructor/Professor**, sharing my knowledge and empowering others in technology. Whether it’s coding or teaching, I love turning ideas into solutions!
+Beyond coding, I’m also an **IT Instructor**, teaching tech skills and turning complex ideas into accessible solutions. Because technology is best when shared!
 
+🔧 **Technologies & Tools**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react,nodejs,nestjs,docker,mysql,mongodb,postgres,figma,laravel,py,ubuntu,androidstudio,arch,aws,bootstrap,dotnet,debian,django,express,git,heroku,nginx,php,prisma,redux,ts)](https://skillicons.dev)
-
-
-:mortar_board: I am graduated in Computer Science.
-
-I have also worked with **C#**, **SQL Server**, **PHP**, **MySQL** and others. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Baranowski&layout=compact)](https://github.com/Eduardo-Baranowski/github-readme-stats)
 
