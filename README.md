@@ -6,21 +6,8 @@ Currently I'm working with **React Native** to make Mobile applications for Andr
 
 But, I also used it in projects:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react,nodejs,nestjs,docker,mysql,mongodb,postgres,figma,laravel,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react,nodejs,nestjs,docker,mysql,mongodb,postgres,figma,laravel,py,ubuntu,androidstudio,arch,aws,bootstrap,dotnet,debian,django,express,git,heroku,java,nginx,php,prisma,redux,tailwind,ts,yarn,npm)](https://skillicons.dev)
 
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
-&nbsp;
-<img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
-&nbsp;
-<img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
-&nbsp;  
-<img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />
-&nbsp;
-<img src="https://laravel.com/img/logomark.min.svg" height="35px" /> 
-&nbsp;
-<img src="https://www.python.org/static/img/python-logo.png" height="35px" />     
-</p>
 
 :mortar_board: I am graduated in Computer Science.
 
