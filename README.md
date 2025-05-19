@@ -5,7 +5,9 @@ Beyond coding, I’m also an **IT Instructor**, teaching tech skills and turning
 
 <hr/>
 🔧 **Technologies & Tools**
-<br>
+<p>
+  <br>
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react,nodejs,nestjs,docker,mysql,mongodb,postgres,figma,laravel,py,ubuntu,androidstudio,arch,aws,bootstrap,dotnet,debian,django,express,git,heroku,nginx,php,prisma,redux,ts)](https://skillicons.dev)
 
