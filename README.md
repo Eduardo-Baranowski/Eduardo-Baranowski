@@ -6,12 +6,9 @@ Currently I'm working with **React Native** to make Mobile applications for Andr
 
 But, I also used it in projects:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react)](https://skillicons.dev)
 
 <p>
-&nbsp;  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
-&nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
 &nbsp;
 <img src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png" height="35px"/>
