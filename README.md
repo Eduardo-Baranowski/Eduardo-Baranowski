@@ -20,4 +20,3 @@ Beyond coding, I’m also an **IT Instructor**, teaching tech skills and turning
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardobaranowski/)](https://www.instagram.com/eduardobaranowski/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/eduardo-baranowski-091760127/)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-6633cc?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/rodrigogoncalvess)](https://www.twitch.tv/edu_baranowski)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-6633cc?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/rodrigogsdev)](https://twitter.com/edu_baranowski)
