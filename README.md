@@ -11,7 +11,7 @@ Beyond coding, I’m also an **IT Instructor**, teaching tech skills and turning
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react,nodejs,nestjs,docker,mysql,mongodb,postgres,figma,laravel,py,ubuntu,androidstudio,arch,aws,azure,bootstrap,dotnet,debian,django,express,git,heroku,nginx,php,prisma,redux,ts)](https://skillicons.dev)
 
 
- | [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardo-Baranowski&theme=dracula&exclude=exclude)](https://github.com/Eduardo-Baranowski/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Baranowski&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
+ | [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo-Baranowski&theme=dracula&exclude=exclude)](https://github.com/Eduardo-Baranowski/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Baranowski&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
  | ----------- | ----------- |  
 
 
