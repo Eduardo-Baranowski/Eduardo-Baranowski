@@ -8,7 +8,7 @@ Beyond coding, I’m also an **IT Instructor**, teaching tech skills and turning
 <p>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react,nodejs,nestjs,docker,kubernets,mysql,mongodb,postgres,figma,laravel,py,ubuntu,androidstudio,arch,aws,azure,bootstrap,dotnet,debian,django,express,git,heroku,nginx,php,prisma,redux,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,react,nodejs,nestjs,docker,kubernetes,mysql,mongodb,postgres,figma,laravel,py,ubuntu,androidstudio,arch,aws,azure,bootstrap,dotnet,debian,django,express,git,heroku,nginx,php,prisma,redux,ts)](https://skillicons.dev)
 
 
  | [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo-Baranowski&theme=dracula&exclude=exclude)](https://github.com/Eduardo-Baranowski/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eduardo-Baranowski&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
